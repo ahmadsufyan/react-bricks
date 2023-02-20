@@ -3,6 +3,6 @@ import HeroUnit from './HeroUnit';
 import Table from './Table';
 import Typography from './Typography';
 
-const bricks: types.Brick[] = [HeroUnit, Typography]
+const bricks: types.Brick[] = [HeroUnit, Typography, Table]
 
 export default bricks
